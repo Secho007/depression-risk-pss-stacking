@@ -25,7 +25,7 @@ This repository contains the full analysis pipeline for developing and validatin
 
 The dataset used in this study is publicly available on the Kaggle platform:
 
-> [Student Depression Dataset](https://www.kaggle.com/datasets/[请替换为具体链接])
+> [Student Depression Dataset](https://www.kaggle.com/code/annastasy/mental-health-eda-ensemble/notebook)
 
 The dataset contains 27,898 valid records of college students aged 18–35 years, encompassing 19 behavioral, psychological, and demographic features. It is fully anonymized with no personally identifiable information.
 
