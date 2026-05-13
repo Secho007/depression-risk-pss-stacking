@@ -181,4 +181,4 @@ This code is released for academic research purposes only, consistent with the t
 
 Corresponding author: Chenchen Xu
 Nanjing Medical University, Nanjing, China
-Email: [to be completed]
+Email: [mlu@njmu.edu.cn]
